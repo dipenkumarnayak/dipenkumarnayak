@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipenkumarnayak
 - 👀 I’m interested in software technology.
-- 🌱 I’m currently learning c/c++.
+- 🌱 I’m currently learning HTML.
 - 💞️ I’m looking to collaborate on app dvlopment.
 - 📫 You can reach me through my gmail dipenkumarnayak@gmail.com
 
